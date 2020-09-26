@@ -10,5 +10,15 @@
 # Skills
 
 - Python: Advance
-- 
+- DSA: Beginner
+- FORTRAN: Intermediate
+- HTML & CSS: Beginner
 
+# Tools
+
+- numpy, pandas, sklearn, nltk, matplotlib, seaborn, keras, flask, tableau, tensorflow
+
+# Connect
+
+- Kaggle : https://www.kaggle.com/phuskisher
+- Portfolio : https://pranaymohadikar.github.io/  [work in progres]
