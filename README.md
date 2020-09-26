@@ -9,6 +9,6 @@
 
 # Skills
 
--Python: Advance
--
+- Python: Advance
+- 
 
